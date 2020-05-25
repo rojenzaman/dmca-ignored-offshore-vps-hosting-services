@@ -1,4 +1,4 @@
-## En iyi ve en ucuz; DMCA telif hakkı yasasını görmezden gelen, umursamayan ve OFFSHORE hizmet veren sunucu sağlayici şirketlerinin listesi (güncellemeye devam edecektir)
+## En iyi ve en ucuz; DMCA telif hakkı yasasını görmezden gelen, umursamayan ve OFFSHORE hizmet veren sunucu sağlayıcı şirketlerinin listesi (güncellemeye devam edecektir)
 
 
 
@@ -78,3 +78,7 @@ $3.75 Elastic Compute Service
 1GB ram, 25GB SSD, 2TB BW 
 
 -----------------
+
+Faydalı linkler:
+
+https://tr.hostadvice.com/hosting-services/dmca-ignored-hosting/
